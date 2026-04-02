@@ -3,20 +3,31 @@
 </a>
 Bem-vindos ao meu GitHub! ⭐
 
-## Olá! eu sou Elaine Santana
-🔧 Formação Técnica:
+💻 Sobre mim
 
-Técnica em Manutenção e Redes de Computadores (FIEB)
-Especialização Técnica em Radiocomunicação (ETEC)
-Técnica em Telecomunicação (ETEC)
-Cada bug é uma chance de aprender algo novo.
+Olá! Eu sou a Elaine 👋
+Estudante de Sistemas para Internet, apaixonada por tecnologia e em constante evolução 🚀
 
-🌟 Jornada de Aprendizado:
+Atualmente focada no desenvolvimento front-end, com conhecimentos em:
+✨ HTML
+🎨 CSS
+⚡ JavaScript
 
-Estudando através do site: Curso em Vídeo, com o Professor Guanabara
-Aprimorando habilidades na plataforma Dio.me
-Focada no desenvolvimento das minhas habilidades como desenvolvedora
+Além disso, estou sempre aprimorando minhas habilidades através de cursos na DIO.me, buscando aprender na prática e construir projetos reais.
 
+🚀 Objetivo
+
+Transformar ideias em soluções digitais, criando interfaces modernas, funcionais e acessíveis.
+Estou em busca de oportunidades para crescer na área de tecnologia e contribuir com projetos inovadores.
+
+📚 Em constante aprendizado
+Desenvolvimento Web
+Boas práticas de código
+Lógica de programação
+Projetos práticos
+💡 Diferencial
+
+Minha trajetória une disciplina, dedicação e vontade de aprender — sempre buscando evoluir um pouco todos os dias.
 
 
 - 🔭 formada em redes de computadores..
